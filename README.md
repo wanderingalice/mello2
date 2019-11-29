@@ -1,24 +1,15 @@
-# README
+Mello - a Trello like Kanban app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Login
 
-Things you may want to cover:
+![Login Page](/assets/login.png)
 
-* Ruby version
 
-* System dependencies
+User Page
 
-* Configuration
+![User Page](/assets/welcome.png)
 
-* Database creation
 
-* Database initialization
+Boards
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![boards](/assets/boards.png)

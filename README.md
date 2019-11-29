@@ -2,14 +2,14 @@ Mello - a Trello like Kanban app
 
 Login
 
-![Login Page](/assets/login.png)
+![Login Page](/public/assets/login.png)
 
 
 User Page
 
-![User Page](/assets/welcome.png)
+![User Page](/public/assets/welcome.png)
 
 
 Boards
 
-![boards](/assets/boards.png)
+![boards](/public/assets/boards.png)
